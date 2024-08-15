@@ -1,0 +1,17 @@
+This package contains third-party software components governed by the license(s) indicated below:
+
+1- Sprites/Images:
+
+All Sprites are from https://kenney.nl/
+
+License Type: Creative Commons CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+
+2- Audio/Sound:
+
+Component Name: Assets/Plugins/Qookie Games/AudioManager/Audio/confirmation_001.wav from https://kenney.nl/
+
+Component Name: Assets/Plugins/Qookie Games/AudioManager/Audio/back_004.wav from https://kenney.nl/
+
+Component Name: Assets/Plugins/Qookie Games/AudioManager/Audio/Arpent.wav from https://freepd.com/electronic.php
+
+License Type: Creative Commons CC0 (https://creativecommons.org/publicdomain/zero/1.0/)

@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 4d40b52ba1511b84b956295bb642a479
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: calf_l
+    100002: calf_r
+    100004: Cap
+    100006: clavicle_l
+    100008: clavicle_r
+    100010: foot_l
+    100012: foot_r
+    100014: hand_l
+    100016: hand_r
+    100018: head
+    100020: Headband
+    100022: index_01_l
+    100024: index_01_r
+    100026: index_02_l
+    100028: index_02_r
+    100030: lowerarm_l
+    100032: lowerarm_r
+    100034: neck_01
+    100036: Pants_02
+    100038: pelvis
+    100040: root
+    100042: Shoes_02
+    100044: Skelet.c
+    100046: spine_01
+    100048: spine_02
+    100050: spine_03
+    100052: Stickman_heads_sphere.011
+    100054: //RootNode
+    100056: Sweater
+    100058: thigh_l
+    100060: thigh_r
+    100062: thumb_01_l
+    100064: thumb_01_r
+    100066: thumb_02_l
+    100068: thumb_02_r
+    100070: upperarm_l
+    100072: upperarm_r
+    400000: calf_l
+    400002: calf_r
+    400004: Cap
+    400006: clavicle_l
+    400008: clavicle_r
+    400010: foot_l
+    400012: foot_r
+    400014: hand_l
+    400016: hand_r
+    400018: head
+    400020: Headband
+    400022: index_01_l
+    400024: index_01_r
+    400026: index_02_l
+    400028: index_02_r
+    400030: lowerarm_l
+    400032: lowerarm_r
+    400034: neck_01
+    400036: Pants_02
+    400038: pelvis
+    400040: root
+    400042: Shoes_02
+    400044: Skelet.c
+    400046: spine_01
+    400048: spine_02
+    400050: spine_03
+    400052: Stickman_heads_sphere.011
+    400054: //RootNode
+    400056: Sweater
+    400058: thigh_l
+    400060: thigh_r
+    400062: thumb_01_l
+    400064: thumb_01_r
+    400066: thumb_02_l
+    400068: thumb_02_r
+    400070: upperarm_l
+    400072: upperarm_r
+    2100000: Material.027
+    2100002: Material.028
+    2100004: Material.041
+    2100006: Material.034
+    2100008: Material.036
+    2100010: Material.038
+    2100012: Material.039
+    2100014: No Name
+    4300000: Sweater
+    4300002: Pants_02
+    4300004: Shoes_02
+    4300006: Headband
+    4300008: Cap
+    4300010: Stickman_heads_sphere.011
+    9500000: //RootNode
+    13700000: Cap
+    13700002: Headband
+    13700004: Pants_02
+    13700006: Shoes_02
+    13700008: Stickman_heads_sphere.011
+    13700010: Sweater
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
